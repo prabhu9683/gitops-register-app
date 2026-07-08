@@ -1,1 +1,1 @@
-# gitops-register-app
+Tomcat app server page will be displayed 
